@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "bridged.io website",
   "author": "softmarshmallow",
+  "repository": "https://github.com/softmarshmallow/bridged.io.git",
   "private": true,
   "scripts": {
     "dev": "nuxt",
