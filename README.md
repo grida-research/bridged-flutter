@@ -19,4 +19,12 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+# design
+> open design source on figma.
+
+[figma](https://www.figma.com/file/Gaznaw1QHppxvs9UkqNOb0/website?node-id=0%3A1)
+
+
+## contribute
+
+contact woojoo@softmarshmallow.com for contribution
