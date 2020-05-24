@@ -62,6 +62,8 @@ $ yarn generate
 
 ### contribute on study
 
+[bridged-ui](https://www.figma.com/file/iypAHagtcSp3Osfo2a7EDz/bridged-ui?node-id=0%3A1330)
+
 * remote-ui concepts study
 * general design philosophy study
 * ui-design automation study
