@@ -23,23 +23,27 @@ class Footer extends StatelessWidget {
             ),
             FlatButton(
               onPressed: () {},
-              child: Text("remote-ui"),
+              child: Text("remote-ui server"),
             ),
             FlatButton(
               onPressed: () {},
-              child: Text("remote-ui"),
+              child: Text("remote-ui vue"),
             ),
             FlatButton(
               onPressed: () {},
-              child: Text("remote-ui"),
+              child: Text("remote-ui react"),
             ),
             FlatButton(
               onPressed: () {},
-              child: Text("remote-ui"),
+              child: Text("remote-ui flutter"),
             ),
             FlatButton(
               onPressed: () {},
-              child: Text("remote-ui"),
+              child: Text("remote-ui android"),
+            ),
+            FlatButton(
+              onPressed: () {},
+              child: Text("remote-ui ios"),
             ),
           ],
         )
